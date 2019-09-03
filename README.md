@@ -54,7 +54,7 @@ What patches are being applied and why:
 What OS and toolchain must we use to reproduce this build?  Include where to find it, etc.  We're going to try to reproduce your build as close as possible to verify that it's really a build of the source tree you tell us it is, so these need to be fairly thorough. At the very least include the specific versions of gcc, binutils, and gnu-efi which were used, and where to find those binaries.
 -------------------------------------------------------------------------------
 - OS:
--   ubuntu18.04.3(www.ubuntu.com/download/desktop/thank-you?version=18.04.3&architecture=amd64)
+    - ubuntu18.04.3(www.ubuntu.com/download/desktop/thank-you?version=18.04.3&architecture=amd64)
 *Toolchain:
     *gnu-efi 3.0.8 (3.0.8-0ubuntu1~18.04.1)
     *gcc version 7.4.0 (Ubuntu 7.4.0-1ubuntu1~18.04.1)
