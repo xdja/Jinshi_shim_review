@@ -56,8 +56,8 @@ What OS and toolchain must we use to reproduce this build?  Include where to fin
 - OS:
     - ubuntu18.04.3 (www.ubuntu.com/download/desktop/thank-you?version=18.04.3&architecture=amd64)
 - Toolchain:
-     - gnu-efi 3.0.8 (3.0.8-0ubuntu1~18.04.1)
-     - gcc version 7.4.0 (Ubuntu 7.4.0-1ubuntu1~18.04.1)
+     - gnu-efi 3.0.8
+     - gcc version 7.4.0
 - MAKE-STEP:
     - cd /path/to/shim/
     - sudo apt-get install gnu-efi
